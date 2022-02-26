@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloody murthers executed; or, news from Fleet-Street. Being the last speech and confessions of the two persons executed there on Friday the 22 of October, 1675 With an exact account of all the circumstances of their murthering the Knight, Sir R.S. in White-Fryers. The manner of their being apprehended, and their deportment in Newgate, from the time of their condemnation, to their execution. They were removed to hang in irons, one on Finchley-Common, and the other on Sanford Hills, on Saturday the 23d. of Octob. 1675. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76886</idno>
+            <idno type="STC">Wing B3261A</idno>
+            <idno type="STC">ESTC R230871</idno>
+            <idno type="EEBO-CITATION">99899698</idno>
+            <idno type="PROQUEST">99899698</idno>
+            <idno type="VID">134573</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134573)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2419:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloody murthers executed; or, news from Fleet-Street. Being the last speech and confessions of the two persons executed there on Friday the 22 of October, 1675 With an exact account of all the circumstances of their murthering the Knight, Sir R.S. in White-Fryers. The manner of their being apprehended, and their deportment in Newgate, from the time of their condemnation, to their execution. They were removed to hang in irons, one on Finchley-Common, and the other on Sanford Hills, on Saturday the 23d. of Octob. 1675. With allowance.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Powel,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:134573:1"/>
+            <pb facs="tcp:134573:1"/>
+            <p>THE Bloody Murtherers EXECUTED; OR, News from Fleet-Street.</p>
+            <p>Being the Laſt Speech and Confeſsions OF The Two Perſons Executed there On <hi>Friday</hi> the 22 of <hi>October,</hi> 1675.</p>
+            <p>With an exact Account of all the Circumſtances of their Murthering the Knight, Sir <hi>R. S.</hi> in <hi>White-Fryers.</hi> The Manner of their being Appre<g ref="char:EOLhyphen"/>hended, and their Deportment in <hi>Newgate,</hi> from the time of their Condemnation, to their Execution.</p>
+            <p>They were Removed to Hang in Irons, one on <hi>Finchly-Common,</hi> and the other on <hi>Sanford Hills,</hi> on Saturday the 23d. of <hi>Octob.</hi> 1675.</p>
+            <p>With Allowance.</p>
+            <p>Printed for <hi>William Powel.</hi> 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:134573:2"/>
+            <pb n="1" facs="tcp:134573:2"/>
+            <head>An account of the crime and con<g ref="char:EOLhyphen"/>feſsion of the two Perſons hang<g ref="char:EOLhyphen"/>ed in <hi>Fleet-Street.</hi>
+            </head>
+            <p>THere is nothing more falſe or extravagant than common fame; and therefore to pre<g ref="char:EOLhyphen"/>vent the further ſpreading of untrue Re<g ref="char:EOLhyphen"/>ports concerning this unhappy accident, it is now thought fit to make publique a more Impartial and perfect account thereof then has yet been ex<g ref="char:EOLhyphen"/>poſed to general view.</p>
+            <p>The fact it ſelf was of that Nature as ſcarce admits of any Extenuation, much leſs Apology, Murther being a Crime moſt heinons and abomi<g ref="char:EOLhyphen"/>nable, not to be expiated, where wilfully Com<g ref="char:EOLhyphen"/>mitted by any thing but the life of the offender: All Laws both Divine and humane centring in this moſt Juſt reſult, <hi>That he that ſheds mans blood, by man ſhall his blood be ſhed:</hi>
+            </p>
+            <pb n="2" facs="tcp:134573:3"/>
+            <p>The Gentleman upon whom this aſſaſſination was committed was a perſon of good worth, a handſome noble Eſtate, young in years, and like<g ref="char:EOLhyphen"/>ly to have proved very uſeful and ſerviceable to his Countrey and Generation, his Family being ſo well known that I do not think it fit to ſtain his name by inferring it in a pamphlet; Let it ſuffice to ſay; That as he was a Knight by Ti<g ref="char:EOLhyphen"/>tle and quality ſo he was of that clear courage and generoſity, that he deſerved a braver fate than to be thus clean deſtinely kill'd by ſurprize; The occaſion of which was thus.</p>
+            <p>This Knight and a friend of his being acciden<g ref="char:EOLhyphen"/>tally in company at a Tavern in Fleet-ſtreet, theſe two Perſons whoſe lives have now paid for their inſolency, intruded into their room, and one of them creates a quarrel with the Knights Friend, pretending forty ſhillings due to him from his Brother as won of him at play, which he very rudely demanded of this ſtranger, who refuſing to gratifie ſo unreaſonable a requeſt, high and very rough words aroſe from the over-ſwelling of their mutual paſſions, from Words, as too often is uſual in ſuch caſes, the heat of their Spirit brought them to blows, wherein yet little harm was done on either ſide; they being quickly parted in the fray by the people of the houſe and others that there interpoſed.</p>
+            <p>Hereupon theſe two perſons now to ſuffer went way, but as it ſadly appears, not being ſatisfied
+<pb n="3" facs="tcp:134573:3"/>reſolved to way-lay them, more particularly to be revenged on this Knight, whoſe appearing re<g ref="char:EOLhyphen"/>ſolutely in his friends behalf had defeated them of their expectations; and accordingly waited in the ſtreet till the others came forth, they follow<g ref="char:EOLhyphen"/>ed them towards the back Gate of the Temple in <hi>White-Fryars,</hi> and then both of them with as lit<g ref="char:EOLhyphen"/>tle generoſity, as piety or regard to the Laws of God or Man, fell on the Knight on a ſuddam ſheathing both their Swords in his body, and pur<g ref="char:EOLhyphen"/>ſuing their thruſts even after he was down: he not having opportunity by reaſon of the unexpect<g ref="char:EOLhyphen"/>ed ſurprize ſo much as to draw his ſword.</p>
+            <p>Leaving him dead there upon the place, the two Criminals conſidering what they had done, betook themſelves to flight, and as is ſaid immediately croſs'd over the Water, but thinking themſelves not ſecure about <hi>London,</hi> concluded to take their Iourney for refuge, yet wanting Horſes and other conveniences for that purpoſe, and not daring to be ſeen abroad to provide any they were forced to make uſe of a friend, who 'tis probable knew nothing of the particulars of their danger to get ſuch neceſſaries for them; It happened that Gen<g ref="char:EOLhyphen"/>tleman that very day had a Tryal to be in <hi>Guild-Hall,</hi> and being plaintiff came in the morning to his Attorney, deſiring of him to put off the Tryal, becauſe he had two friends in a little danger that he muſt that day help to get out of the Town; The honeſt Attorney being called upon by the
+<pb n="4" facs="tcp:134573:4"/>other ſide to proceed to Tryal, acquainted them with what his Clyent ſaid, and the particular oc<g ref="char:EOLhyphen"/>caſion which kept him abſent, not imagining it to be any matter of ſecrecy. But by chance ſhall I ſay or rather providence, one that ſtood by and had been well acquainted with the murthered Gen<g ref="char:EOLhyphen"/>tleman overhearing him, inquired who his Clyent was, ſuſpecting theſe two perſons to be the ſame they afterwards proved; and it appearing ſo up<g ref="char:EOLhyphen"/>on the examination of the Clyent, and that they were gone towards <hi>Barnet,</hi> purſuit was made af<g ref="char:EOLhyphen"/>ter them, who croſſed the Countrey, and Rid by-roads, but yet not ſo ſecretly but ſtill the hue and cry had notice of their motion, till at laſt they lodged them in a village, where getting of a Conſtable and comming with ſtore of company to apprehend them, theſe ſeemingly unconcerned Gentlemen themſelves look'd out at a Window, and ask'd the people <hi>what the matter was;</hi> and be<g ref="char:EOLhyphen"/>ing told it was to apprehend perſons ſuſpected for the murther of a Knight at <hi>London</hi> they ſtood upon their guard, but being apprehended, and committed, and thence by due proceſs of Law brought to <hi>London,</hi> and arraigned at the <hi>Old Bay<g ref="char:EOLhyphen"/>ly,</hi> at the Seſsions, the 13 of <hi>October</hi> 1675. where they inſiſted that the Fact was done <hi>le defendendo,</hi> and afterwards that it was onely Chance medley, or Manſlaughter, being acted in heat of Blood upon a ſudden fray or Rancounter; but the ſeve<g ref="char:EOLhyphen"/>ral circumſtances before mentioned being diſtinct<g ref="char:EOLhyphen"/>ly
+<pb n="5" facs="tcp:134573:4"/>and fully proved againſt them, and that they made the ſecond aſſault a good conſiderable time after the firſt quarrel, the Iury brought them in guilty of murther, and accordingly they received Sentence of death, as in ſuch caſes is uſual, one<g ref="char:EOLhyphen"/>ly becauſe it might be a more a Warning, and make the greater impreſsions on the ſpirits of the wild Hectorian Gentlemen, wherewith this age and City too much abounds; it was thought fit by authority, that they ſhould be hanged in <hi>Fleet-ſtreet</hi> as near as conveniently might be to the place where they did the fact.</p>
+            <p>There were ſeveral addreſſes (as 'tis ſaid) made for obtaining a pardon or reprieve for them, but the heinouſneſs of the crime, the quality of the perſon kill'd, and many other circumſtances pre<g ref="char:EOLhyphen"/>vented that indulgence.</p>
+            <p>After Sentence they behaved themſelves in <hi>New<g ref="char:EOLhyphen"/>gate</hi> with much moderation and ſeeming (I hope hearty and ſincere] repentence; The Ordinary and other godly Miniſters often attending them with Chriſtian admonitions and exhortations for the eter<g ref="char:EOLhyphen"/>nal good of their ſouls.</p>
+            <p>The Day of Execution for the common priſo<g ref="char:EOLhyphen"/>ners was on <hi>Wedneſday</hi> the 20. of <hi>October,</hi> at which time five 'condemned laſt Seſsions for Houſebreak<g ref="char:EOLhyphen"/>ing Robbery and the like crimes ſuffered death at Tyburn; but theſe two perſons had the date of their lives extended until Friday the 22 of this in<g ref="char:EOLhyphen"/>ſtant <hi>October,</hi> and then ſuffered in <hi>Fleet-Street;</hi>
+               <pb n="6" facs="tcp:134573:5"/>where vaſt multitudes of people were aſſembled to be ſpectators of the difmal ſpectacle.</p>
+            <p>Some time before their death in priſon they ac<g ref="char:EOLhyphen"/>knowledged great ſorrow for their ill ſpent lives, and particularly for the crime for which they were to dye; they confeſt from the time of the fray at the Tavern they had a murtherous intention againſt the Knight, but proteſted they had no malice a<g ref="char:EOLhyphen"/>gainſt him before.</p>
+            <p>At the place of Execution they Deſired very paſsionately all young Gentlemen to take Warning by their unhappy end of ſuch raſh actions, and in particular reckon'd up neglect of the Sabbath and Gameing as the main Original Sins that brought them to this ruine.</p>
+            <p>Particularly Mr. <hi>S.</hi> was Noted to be very Penitent, often Admoniſhing Young Men to beware of a Debaucht and Deſalute way of Living, too much addicted to by the youth of this Town: He ſaid he was never in his Life before con<g ref="char:EOLhyphen"/>cerned either as Acceſſary or Principal in any ſuch Fact, though he had been in many Broyls, and Quarrels, yet thanked God that he alwayys Eſcaped without Blood ſhed until this unhappy buſineſs: He was very earneſt in Prayer, and with Three Miniſters, Mr. <hi>F.</hi> Mr. <hi>P.</hi> and Mr. — And alſo prayed heartily by himſelf.</p>
+            <p>Mr. <hi>J.</hi> was a Perſon which ſeemed more Cheerful and un<g ref="char:EOLhyphen"/>daunted in his condition, though it is ſaid he hath behaved himſelf very Chriſtian-like ſince his Condemnation, until his Execution, before which he ſaid little or nothing to the People.</p>
+            <p>And ſo after certain Prayers and private diſcourſe with ſome friends, they were executed according to Law. Mr. <hi>S.</hi> firſt, and Mr. <hi>J.</hi> about half an hour after.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:134573:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
